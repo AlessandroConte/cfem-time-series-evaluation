@@ -28,6 +28,7 @@ The work was developed as part of a thesis internship at **Humco**, and includes
 
 ## 📂 Repository Structure
 
+```plaintext
 📁 cfem-time-series-evaluation/
 ├── README.md <- You are here
 ├── thesis.pdf <- Full thesis document (Italian)
@@ -38,7 +39,7 @@ The work was developed as part of a thesis internship at **Humco**, and includes
 ├── data/
 │ └── sample_data.csv <- Optional: if publicly shareable
 └── requirements.txt <- Optional: dependencies for running the code
-
+```
 ---
 
 ## 🔧 Models and Tools
