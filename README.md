@@ -32,13 +32,11 @@ The work was developed as part of a thesis internship at **Humco**, and includes
 📁 cfem-time-series-evaluation/
 ├── README.md <- You are here
 ├── thesis.pdf <- Full thesis document (Italian)
-├── notebook/
-│ └── cfem_notebook.ipynb <- Google Colab notebook with full implementation
-├── src/
-│ └── utils.py <- Optional: utility functions
-├── data/
-│ └── sample_data.csv <- Optional: if publicly shareable
-└── requirements.txt <- Optional: dependencies for running the code
+├── notebooks/
+│ └── 01_hourly_energy_consumption_analysis.ipynb <- Google Colab notebook with full analysis of the first dataset
+│ └── 02_company_dataset_analysis.ipynb <- Google Colab notebook with full analysis of the second dataset
+└── data/
+  └── AEP_hourly.csv <- Optional: if publicly shareable
 ```
 ---
 
